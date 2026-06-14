@@ -93,8 +93,7 @@ PDF / DOCX Export
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── screenshots/
+└── .gitignore
 ```
 
 ## Installation
