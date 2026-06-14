@@ -9,7 +9,7 @@ import pyttsx3
 import pandas as pd
 import numpy as np
 # GEMINI API 
-GENAI_API_KEY = "AIzaSyDbuMHa1FJC5LHN4QlnozUdlbCY01QT8sM"
+GENAI_API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=GENAI_API_KEY)
 model = genai.GenerativeModel("gemini-2.5-flash")
 # PAGE 
