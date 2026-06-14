@@ -125,9 +125,7 @@ IntelligentResearchPaperSummarization-FormattingSystem/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-└── screenshots/
+└── .gitignore
 ```
 
 ---
