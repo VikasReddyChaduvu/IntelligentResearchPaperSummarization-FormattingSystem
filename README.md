@@ -214,14 +214,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
-
-**Vikas Reddy Chaduvu**
-
-GitHub: https://github.com/VikasReddyChaduvu
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a star on GitHub.
